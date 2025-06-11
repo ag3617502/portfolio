@@ -52,6 +52,7 @@ I'm a **MERN Stack Developer** with 5+ years of experience building full-stack a
 
 - 💼 [LinkedIn – Aman Gupta](https://www.linkedin.com/in/aman-gupta-7764a9237/)
 - 📧 Email: ag3617502@gmail.com
+- 🏤 Mobile: -917974198714
 
 ---
 
