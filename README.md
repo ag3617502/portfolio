@@ -11,7 +11,7 @@ I'm a **MERN Stack Developer** with 5+ years of experience building full-stack a
 - **Databases**: PostgreSQL, MongoDB
 - **Testing**: Mocha, Chai
 - **DevOps**: Docker, AWS
-- **Other**: REST APIs, Git, CI/CD, Agile
+- **Other**: REST APIs, Git, CI/CD, Agile, socket.io
 
 ---
 
@@ -39,7 +39,7 @@ I'm a **MERN Stack Developer** with 5+ years of experience building full-stack a
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **AI Pharma Assistant** | AI chat platform that generates content for pharma companies (PDFs, banners, emails) | React, Node, MongoDB, Docker |
+| **AI Pharma Assistant** | AI chat platform that generates content for pharma companies (PDFs, banners, emails) | React, Node, MongoDB, Docker,Socket.io |
 | **School Data Platform** | Govt-backed apps like Vidyanjali and PM SHRI to manage school datasets at scale | MERN, PostgreSQL, AWS |
 | **Circular Scheduler App** | A custom-designed scheduler with a circular interface | React, Node.js, CSS |
 | **Chat App** | Real-time chat application with user groups and live messaging | MERN Stack, Socket.io |
