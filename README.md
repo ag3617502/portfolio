@@ -11,7 +11,7 @@ I'm a **MERN Stack Developer** with 5+ years of experience building full-stack a
 - **Databases**: PostgreSQL, MongoDB
 - **Testing**: Mocha, Chai
 - **DevOps**: Docker, AWS
-- **Other**: REST APIs, Git, CI/CD, Agile, socket.io
+- **Other**: REST APIs, Git, CI/CD, Agile, socket.io, Google cloud plateform (GCP)
 
 ---
 
